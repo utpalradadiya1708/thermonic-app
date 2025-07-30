@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'login_view.dart';
 
 class SignupView extends StatelessWidget {
   const SignupView({super.key});
