@@ -1,0 +1,11 @@
+import 'package:get/get.dart';
+
+import 'my_order_controller.dart';
+
+
+class MyOrderBindings extends Bindings {
+  @override
+  void dependencies() {
+    Get.put<MyOrdersController>(MyOrdersController());
+  }
+}

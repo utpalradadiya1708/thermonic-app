@@ -1,0 +1,1 @@
+enum GradeSelectionType { single, multiple }

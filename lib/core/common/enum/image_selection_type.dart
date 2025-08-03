@@ -1,0 +1,1 @@
+enum ImageSelectionType { gallery, camera }
